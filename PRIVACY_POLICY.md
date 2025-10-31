@@ -1,8 +1,8 @@
-# Privacy Policy for [Your Bot Name]
+# Privacy Policy for [Star Citizen Market by SO_Kitty]
 
-Last updated: [Date]
+Last updated: [10/30/2025]
 
-This Privacy Policy explains how [Your Bot Name] ("the Bot", "we", "our", or "us") collects, uses, and stores data from users who interact with the Bot on Discord.
+This Privacy Policy explains how [Star Citizen Market by SO_Kitty] ("the Bot", "we", "our", or "us") collects, uses, and stores data from users who interact with the Bot on Discord.
 
 ---
 
